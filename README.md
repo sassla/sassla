@@ -97,3 +97,4 @@ En caso de un sismo fuerte, SASSLA publicará en tiempo real y simultáneamente 
 - Email: [app@sassla.mx](mailto:app@sassla.mx)
 - WhatsApp: [+52 55 4447 1236](https://wa.me/message/YEKWA4Y2UCV4B1)
 - Facebook: [@SafeLiveAlertMX](https://facebook.com/SafeLiveAlertMX)
+- Twitter: [@SafeLiveAlert](https://twitter.com/SafeLiveAlert)
