@@ -69,14 +69,39 @@ Además, es posible regionalizar la transmisión a zonas específicas, ya sea a 
 
 
 ### Protocolo de Alertamiento Crítico (PAC)
-SASSLA App está disponible para sistema operativo iOS y Android la cual tiene la capacidad exclusiva de advertir de forma crítica a los usuarios de la aplicación cuando se determina que están frente a una amenaza.
+El Protocolo de Alertamiento Crítico (PAC) de SASSLA consiste en una serie de acciones que ejecuta el teléfono celular, las cuales permiten advertir de forma crítica al usuario cuando se recibe un mensaje de emergencia. Iniciamos el desarrollo del PAC a inicios de 2018.
 
-- Es posible mantener una conexión persistente de bajo impacto energético entre el celular y SASSLA.
-- Tiene la capacidad de interrumpir cualquier actividad o aviso vigente (notificaciones, llamadas, música, aplicaciones, etc.)
-- El audio de alerta suena a máximo volumen incluso cuando el teléfono está en modo silencio y/o no molestar.
-- La pantalla utiliza su brillo máximo para facilitar la lectura de la información de la alerta.
-- El vibrador y la luz led del dispositivo se encienden repetidamente para que el usuario note la alerta en situaciones donde hay mucho ruido.
-- El mensaje de SASSLA tiene la prioridad más alta que cualquier otro en el celular.
+El PAC se ejecuta en el celular de cada usuario y funge como receptor / decodificador de los mensajes emitidos por el Sistema de Alerta Pública Masiva (SAP).
+A diferencia de una notificación push normal, cuando el PAC recibe un mensaje de alerta sísmica, puede utilizar de forma exclusiva recursos reservados del sistema de cada teléfono (iOS y Android) detallados a continuación:
+
+
+- INTERRUPCIÓN DE CUALQUIER ACTIVIDAD, AVISO Y/O ALERTA VIGENTE:
+El PAC interrumpe cualquier aplicación en primer plano (apps, videos, juegos, música, etc.) para mostrar un rectángulo color rojo a pantalla completa con la información del sismo detectado. En caso que el teléfono celular se encuentre bloqueado o en reposo, el PAC tiene la capacidad de encender la pantalla.
+
+
+- BRILLO MÁXIMO EN PANTALLA:
+La pantalla roja con la información del evento se ilumina con el brillo máximo que permita el dispositivo móvil, con el fin de facilitar la lectura en situaciones donde hay mucha luz ambiental.
+
+
+- SONIDO DE ALERTA A MÁXIMO VOLUMEN:
+El PAC puede controlar el audio y volumen del teléfono celular. Cuando se recibe una alerta sísmica se interrumpe cualquier sonido en progreso, ya sea de música, video, llamada, juego, sonido de notificaciones, etc.
+
+    Posteriormente, el volumen se establece al máximo nivel y se habilitan todas las bocinas disponibles (algunos celulares tienen 2 bocinas) para reproducir el sonido de alerta durante 60 segundos.
+
+    Si el teléfono tiene activo el “Modo Silencio” y/o “Modo No Molestar”, el PAC puede ignorar la indicación y reproducir el sonido de alerta normalmente.
+
+    Este protocolo utiliza un canal de audio de alta prioridad, es decir, el sonido de alerta sísmica no se interrumpirá bajo ningún motivo a menos que el usuario lo detenga manualmente, a diferencia de una notificación push tradicional.
+
+    Si el usuario tiene audífonos en el momento de una alerta sísmica, el sonido se activará en el celular y en los auriculares simultáneamente. En el teléfono móvil siempre sonará a máximo volumen, en audífonos o altavoces externos se utilizará el nivel de volumen establecido por el usuario en ese momento.
+
+
+- VIBRACIÓN INTERMITENTE:
+El PAC encenderá el vibrador repetidamente con su máxima intensidad, para que el usuario pueda notar el mensaje de alerta incluso en situaciones en las que no es posible hacerlo de forma audiovisual.
+
+
+- LUZ ESTROBOSCÓPICA:
+Las luces led del teléfono celular se encenderán simulando una luz estroboscópica, con el fin de que el usuario note el aviso de alerta sísmica de forma visual.
+
 
 ## Servicios Adicionales:
 
