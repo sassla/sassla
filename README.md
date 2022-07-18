@@ -95,6 +95,7 @@ En caso de un sismo fuerte, SASSLA publicará en tiempo real y simultáneamente 
 
 ## Prensa:
 SASSLA es reconocida en múltiples medios de comunicación (nacionales e internacionales) por su buen desempeño a lo largo de 8 años.
+![SASSLA en los medios](https://github.com/sassla/sassla/blob/main/sassla_media.png)
 
 ## Contacto y soporte:
 - Email: [app@sassla.mx](mailto:app@sassla.mx)
