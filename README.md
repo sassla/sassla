@@ -92,3 +92,8 @@ Con el fin de promover la cultura de prevención en México, desarrollamos "SASS
 En caso de un sismo fuerte, SASSLA publicará en tiempo real y simultáneamente en todas las cuentas registradas. Este servicio es gratuito y se puede activar fácilmente.
 
 ![SASSLA en tus Redes Sociales](https://github.com/sassla/sassla/blob/main/sassla_tweet_services.png)
+
+## Contacto y soporte:
+- Email: [app@sassla.mx](mailto:app@sassla.mx)
+- WhatsApp: [+52 55 4447 1236](https://wa.me/message/YEKWA4Y2UCV4B1)
+- Facebook: [@SafeLiveAlertMX](https://facebook.com/SafeLiveAlertMX)
