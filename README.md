@@ -93,6 +93,9 @@ En caso de un sismo fuerte, SASSLA publicará en tiempo real y simultáneamente 
 
 ![SASSLA en tus Redes Sociales](https://github.com/sassla/sassla/blob/main/sassla_tweet_services.png)
 
+## Prensa:
+SASSLA es reconocida en múltiples medios de comunicación (nacionales e internacionales) por su buen desempeño a lo largo de 8 años.
+
 ## Contacto y soporte:
 - Email: [app@sassla.mx](mailto:app@sassla.mx)
 - WhatsApp: [+52 55 4447 1236](https://wa.me/message/YEKWA4Y2UCV4B1)
