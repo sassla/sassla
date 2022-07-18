@@ -41,7 +41,10 @@ Recibe alertas en tu celular hasta 120 segundos antes de un sismo fuerte, sin re
 
 ![SASSLA App](https://github.com/sassla/sassla/blob/main/sassla_app.png)
 
-SASSLA App está disponible en iOS y Android. Es compatible con celulares y tablets Android, iPhone, iPod Touch, iPad y Apple Watch. Descárgala gratis aquí:
+SASSLA App está disponible en iOS y Android. Es compatible con celulares y tablets Android, iPhone, iPod Touch, iPad y Apple Watch.
+Requiere iOS 15.0 y Android 5.0 o superior.
+
+Descárgala gratis aquí:
 
 - [**iOS**](https://apps.apple.com/mx/app/sassla-sismos-en-tiempo-real/id1454877768)
 - [**Android**](https://play.google.com/store/apps/details?id=com.safelivealert.earthquake)
