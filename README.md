@@ -9,7 +9,7 @@
 [![Creador de SASSLA en Twitter](https://img.shields.io/twitter/follow/ClasicalRaptor?style=social)](https://twitter.com/ClasicalRaptor)
 [![SASSLA en YouTube](https://img.shields.io/youtube/channel/subscribers/UC49UkokxDbkf64NPbjfh_0Q?style=social)](https://youtube.com/UC49UkokxDbkf64NPbjfh_0Q?sub_confirmation=1)
 
-SASSLA es un proyecto de iniciativa privada orientado a la Protrección Civil. Ofrecemos en un sólo lugar la información oficial emitida por las autoridades competentes en el ámbito de sísmico y volcánico.
+SASSLA es un proyecto de iniciativa privada orientado a la Protrección Civil. Ofrecemos en un sólo lugar la información oficial emitida por las autoridades competentes en el ámbito sísmico y volcánico.
 
 ## Objetivo:
 México posee el mejor Sistema de Alerta Temprana para Terremotos de todo el mundo, el [**Sistema de Alerta Sísmica Mexicano (SASMEX)**](http://www.cires.org.mx/sasmex_n.php).
@@ -20,3 +20,18 @@ Nuestro objetivo es llevar la señal oficial a la mayor cantidad de personas pos
 Hoy [**SASSLA App**](https://www.sassla.mx/sasslaapp) es la única que permite entregar alertas tempranas de forma crítica, simultánea y sin retrasos, gracias a la [tecnología dedicada](https://www.sassla.mx/sasslaapp) a la recepción de la Alerta Sísmica de México que hemos desarrollado a lo largo de 8 años.
 
 [Conoce la historia completa de SASSLA y sus desarrollos.](https://www.sassla.mx/nosotros)
+
+## Alertas en Tiempo Real:
+### Redes sociales
+Nuestras cuentas publican automáticamente al momento de un sismo. Te indican:
+
+- Posible epicentro
+- Pronóstico de intensidad en cada localidad
+- Tiempo Estimado de Llegada
+- Avance del sismo en tiempo real
+
+![SASSLA en redes sociales](https://github.com/sassla/sassla/blob/main/sassla_social.png)
+
+- Twitter: [*@SafeLiveAlert*](https://twitter.com/SafeLiveAlert)
+- Telegram: [*@SASSLA*](https://t.me/sassla)
+
