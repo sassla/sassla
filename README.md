@@ -84,7 +84,11 @@ SASSLA App está disponible para sistema operativo iOS y Android la cual tiene l
 SASSLA también te permite recibir alertas cuando un sismo pueda afectar a la localidad de un ser querido.
 En tiempo real y sin retrasos serás notificado cuando un sismo fuerte esté por impactar las zonas que elijas.
 
+![Alertas de Familia](https://github.com/sassla/sassla/blob/main/sassla_family_alerts.png)
+
 ### SASSLA en tus Redes Sociales
 Con el fin de promover la cultura de prevención en México, desarrollamos "SASSLA en tus Redes Sociales", función que permite conectar tus cuentas de Twitter y Telegram con nuestro sistema de alertas.
 
 En caso de un sismo fuerte, SASSLA publicará en tiempo real y simultáneamente en todas las cuentas registradas. Este servicio es gratuito y se puede activar fácilmente.
+
+![SASSLA en tus Redes Sociales](https://github.com/sassla/sassla/blob/main/sassla_tweet_services.png)
