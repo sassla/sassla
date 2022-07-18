@@ -56,7 +56,7 @@ Estadísticas:
 - Más de mil sismos registrados en SASSLA.
 
 ## Soluciones en Alertamiento Temprano:
-SASSLA utiliza infraestructura y tecnología dedicada para la difusión masiva de la Alerta Sísmica oficial a través de internet.
+SASSLA utiliza infraestructura y tecnología dedicada para la difusión masiva de la Alerta Sísmica oficial de México a través de internet.
 
 ### Sistema de Alerta Pública Masiva (SAP)
 En SASSLA desarrollamos tecnología única en el mundo para transmitir alertas de emergencia vía internet, con infraestructura dedicada y ultra baja latencia.
@@ -78,3 +78,13 @@ SASSLA App está disponible para sistema operativo iOS y Android la cual tiene l
 - El vibrador y la luz led del dispositivo se encienden repetidamente para que el usuario note la alerta en situaciones donde hay mucho ruido.
 - El mensaje de SASSLA tiene la prioridad más alta que cualquier otro en el celular.
 
+## Servicios Adicionales:
+
+### Alertas de Familia:
+SASSLA también te permite recibir alertas cuando un sismo pueda afectar a la localidad de un ser querido.
+En tiempo real y sin retrasos serás notificado cuando un sismo fuerte esté por impactar las zonas que elijas.
+
+### SASSLA en tus Redes Sociales
+Con el fin de promover la cultura de prevención en México, desarrollamos "SASSLA en tus Redes Sociales", función que permite conectar tus cuentas de Twitter y Telegram con nuestro sistema de alertas.
+
+En caso de un sismo fuerte, SASSLA publicará en tiempo real y simultáneamente en todas las cuentas registradas. Este servicio es gratuito y se puede activar fácilmente.
