@@ -35,3 +35,13 @@ Nuestras cuentas publican automáticamente al momento de un sismo. Te indican:
 - Twitter: [*@SafeLiveAlert*](https://twitter.com/SafeLiveAlert)
 - Telegram: [*@SASSLA*](https://t.me/sassla)
 
+### SASSLA App
+Para uso personal. La app de monitoreo sísmico más confiable de México.
+Recibe alertas en tu celular hasta 120 segundos antes de un sismo fuerte, sin retrasos y de forma crítica.
+
+![SASSLA App](https://github.com/sassla/sassla/blob/main/sassla_app.png)
+
+SASSLA App está disponible en iOS y Android. Es compatible con celulares y tablets Android, iPhone, iPod Touch, iPad y Apple Watch. Descárgala gratis aquí:
+
+- [**iOS**](https://apps.apple.com/mx/app/sassla-sismos-en-tiempo-real/id1454877768)
+- [**Android**](https://play.google.com/store/apps/details?id=com.safelivealert.earthquake)
