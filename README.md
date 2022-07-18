@@ -9,7 +9,7 @@
 [![Creador de SASSLA en Twitter](https://img.shields.io/twitter/follow/ClasicalRaptor?style=social)](https://twitter.com/ClasicalRaptor)
 [![SASSLA en YouTube](https://img.shields.io/youtube/channel/subscribers/UC49UkokxDbkf64NPbjfh_0Q?style=social)](https://youtube.com/UC49UkokxDbkf64NPbjfh_0Q?sub_confirmation=1)
 
-SASSLA es un proyecto de iniciativa privada orientado a la Protrección Civil. Ofrecemos en un sólo lugar la información oficial emitida por las autoridades competentes en el ámbito sísmico y volcánico.
+SASSLA es un proyecto de iniciativa privada orientado a la Protrección Civil en México. Ofrecemos en un sólo lugar la información oficial emitida por las autoridades competentes en el ámbito sísmico y volcánico.
 
 ## Objetivo:
 México posee el mejor Sistema de Alerta Temprana para Terremotos de todo el mundo, el [**Sistema de Alerta Sísmica Mexicano (SASMEX)**](http://www.cires.org.mx/sasmex_n.php).
@@ -48,3 +48,10 @@ Descárgala gratis aquí:
 
 - [**iOS**](https://apps.apple.com/mx/app/sassla-sismos-en-tiempo-real/id1454877768)
 - [**Android**](https://play.google.com/store/apps/details?id=com.safelivealert.earthquake)
+
+Estadísticas:
+
+- Más de 1.5 millones de descargas.
+- La mejor según los usuarios: 4.7/5.0 de calificación en tiendas.
+- Más de mil sismos registrados en SASSLA.
+
