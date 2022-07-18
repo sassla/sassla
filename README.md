@@ -59,13 +59,31 @@ Estadísticas:
 SASSLA utiliza infraestructura y tecnología dedicada para la difusión masiva de la Alerta Sísmica oficial de México a través de internet.
 
 ### Sistema de Alerta Pública Masiva (SAP)
-En SASSLA desarrollamos tecnología única en el mundo para transmitir alertas de emergencia vía internet, con infraestructura dedicada y ultra baja latencia.
+El Sistema de Alerta Pública Masiva (SAP) de SASSLA es un desarrollo que iniciamos después de los sismos de septiembre de 2017, diseñado y estructurado específicamente para la difusión pública y simultánea de la alerta sísmica de México a través de una app móvil.
 
-Esta plataforma es ideal para advertir amenazas que requieren de acción rápida, como los terremotos, ya que es capaz de enviar millones de mensajes en poco más de 500 ms (milisegundos), con la posibilidad de escalar rápidamente su potencia si se requiere.
+El SAP consiste en un grupo de servidores operando las 24 horas todos los días de año, incorporando tecnologías desarrolladas por nosotros, que permiten mantener una conexión permanente con todos los celulares con SASSLA app instalada. Esta infraestructura no se comparte con ningún otro cliente, aplicación móvil o sitio web; es dedicada enteramente a la transmisión de mensajes de alerta sísmica. 
 
-Además, es posible regionalizar la transmisión a zonas específicas, ya sea a escala local, regional o nacional. También, la plataforma tiene la capacidad de enviar un mensaje distinto a cada localidad en la misma transmisión.
+Nuestro sistema es capaz de establecer conexiones directas entre los servidores y el usuario final, esto quiere decir que no depende de forma directa de la tecnología push, aunque sí se implementa como redundancia.
 
-Ésta es una solución robusta, confiable y totalmente personalizable para la advertencia de desastres y crisis a través de apps móviles y dispositivos IoT.
+```mermaid
+flowchart LR;
+    A[SAP] --> B(Usuario Final);
+```
+> El SAP puede mantener conexión directa con el usuario final.
+
+
+```mermaid
+flowchart LR;
+    A[SAP] --> B(Servicio Push: FCM, APNS) --> C(Usuario final);
+```
+> El SAP también utiliza tecnología push como redundancia.
+
+
+Esto lo convierte en un sistema de transmisión confiable, porque además de ser infraestructura dedicada para este fin, existen dos vías para transmitir el mismo mensaje en caso de que una falle.
+
+Los sistemas operativos Android y iOS le permiten de forma exclusiva al SAP mantener conexiones habilitadas sin suspenderlas por batería o rendimiento del celular.
+
+El SAP no utiliza servicios de terceros como intermediarios en el envío de información, implementa programas desarrollados por nosotros, que son los encargados de procesar, empaquetar y transmitir los mensajes de alerta a través de la red, así como monitorear latencia, fallos y el estado de mensajes enviados. Esto nos entrega el control total de la transmisión y recepción de los mensajes.
 
 
 ### Protocolo de Alertamiento Crítico (PAC)
