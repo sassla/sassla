@@ -120,6 +120,7 @@ El PAC encenderá el vibrador repetidamente con su máxima intensidad, para que 
 - LUZ ESTROBOSCÓPICA:
 Las luces led del teléfono celular se encenderán simulando una luz estroboscópica, con el fin de que el usuario note el aviso de alerta sísmica de forma visual.
 
+[**VER VIDEO DEMOSTRACION**](https://www.youtube.com/watch?v=Nu_v_vX1vD4)
 
 ## Servicios Adicionales:
 
